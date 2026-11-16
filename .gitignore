@@ -1,0 +1,21 @@
+
+# Raw GDC data and local datasets
+GDCdata/
+data/
+MANIFEST.txt
+*.rds
+
+# Notes
+notes.md
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project user-specific files
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
